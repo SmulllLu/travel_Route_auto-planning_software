@@ -1,0 +1,2 @@
+# travel_Route_auto-planning_software
+一款基于混合式遗传算法的旅游路径自动规划软件
